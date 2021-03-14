@@ -2,10 +2,19 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - CameraScript
+    - Mover
+    - Mover1
+    - Mover2
+    - Mover3
+    - Mover4
+    - Mover5
+    - Mover6
+    - Mover7
     - PlayerScript
     Unity.2D.Animation.Editor.dll:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.Tilemap.Editor.dll:
+    - UnityEditor.Tilemaps.GridBrush
     - UnityEditor.Tilemaps.GridPaintingState
     - UnityEditor.Tilemaps.GridPaletteBrushes
     - UnityEditor.Tilemaps.GridPalettes
@@ -52,6 +61,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
@@ -72,6 +85,22 @@ ScriptsOnlyBuild:
       Script: {instanceID: 14868}
     - Class: 114
       Script: {instanceID: 15572}
+    - Class: 114
+      Script: {instanceID: 25156}
+    - Class: 114
+      Script: {instanceID: 26586}
+    - Class: 114
+      Script: {instanceID: 27082}
+    - Class: 114
+      Script: {instanceID: 27442}
+    - Class: 114
+      Script: {instanceID: 32024}
+    - Class: 114
+      Script: {instanceID: 33166}
+    - Class: 114
+      Script: {instanceID: 34066}
+    - Class: 114
+      Script: {instanceID: 34080}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -137,7 +166,7 @@ ScriptsOnlyBuild:
     className: BannerPlaceholder
   - hash:
       serializedVersion: 2
-      Hash: ba8885765ad8fe055d2176fbae6efcd9
+      Hash: 7e059098252bcf52166e38d086693f6d
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PlayerScript
@@ -675,7 +704,55 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Mover
+  - hash:
+      serializedVersion: 2
+      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Mover1
+  - hash:
+      serializedVersion: 2
+      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Mover2
+  - hash:
+      serializedVersion: 2
+      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Mover3
+  - hash:
+      serializedVersion: 2
+      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Mover4
+  - hash:
+      serializedVersion: 2
+      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Mover5
+  - hash:
+      serializedVersion: 2
+      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Mover6
+  - hash:
+      serializedVersion: 2
+      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Mover7
   platform: 5
   scenePathNames:
   - Assets/PlatformerTM.unity
-  playerPath: C:/Users/Andrew/Documents/PlatformTM/PlatformerTM/BuildFormer/PlatformerTM.exe
+  playerPath: C:/Users/Andrew/Documents/PlatformTM/PlatformerTM/BuildCH2/PlatformerTM.exe

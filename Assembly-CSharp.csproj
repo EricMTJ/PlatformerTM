@@ -38,6 +38,14 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\PlayerScript.cs" />
      <Compile Include="Assets\Scripts\CameraScript.cs" />
+     <Compile Include="Assets\Scripts\Mover.cs" />
+     <Compile Include="Assets\Scripts\Mover1.cs" />
+     <Compile Include="Assets\Scripts\Mover2.cs" />
+     <Compile Include="Assets\Scripts\Mover3.cs" />
+     <Compile Include="Assets\Scripts\Mover4.cs" />
+     <Compile Include="Assets\Scripts\Mover5.cs" />
+     <Compile Include="Assets\Scripts\Mover6.cs" />
+     <Compile Include="Assets\Scripts\Mover7.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity Path/2020.1.10f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
